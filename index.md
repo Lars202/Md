@@ -33,6 +33,10 @@ Objekt-Eigenschaften-Getter-Setter-Konstruktoren -Lars Stricker
 Methoden-Object-Override -Enes Can Sevim
 ![c80be71d-19fe-46a4-816e-f5dd1a43f291](https://user-images.githubusercontent.com/72859647/124039489-51f99400-da03-11eb-80e9-09ab1d43b3fd.PNG)
 
+Anweisungen-Datentypen-Operatoren-Konstanten sowie UML-Aktivitätsdiagramm-Verzweigungen-if-else-switch -Burak Bingöl
+<img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 16 45" src="https://user-images.githubusercontent.com/72859647/124043944-7ad25700-da0c-11eb-9d36-618fd6c2ada6.png">
+
+
 
 
 
@@ -48,6 +52,10 @@ Versionsverwaltung-zentral-verteilt-GIT -Lars Stricker
 
 Kommentare-JavaDOC-guter-Code-Testen-JUnit -Enes Can Sevim
 ![9e011ced-8a12-412d-974d-fb27effe2e46](https://user-images.githubusercontent.com/72859647/124039526-62117380-da03-11eb-9014-3beaeafeeefc.PNG)
+
+Exception-Handling-Strukturierung -Burak Bingöl
+<img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 15 29" src="https://user-images.githubusercontent.com/72859647/124044004-a8b79b80-da0c-11eb-9ad4-a7e5c84094ba.png">
+
 
 
 
@@ -92,6 +100,8 @@ Wrapper, String, RegEx, Garbage-Collector
 
 Aggregation, Komposition, Enum, Annotation
 ![8dd81d75-c0f6-4b71-930b-422c1b27737e](https://user-images.githubusercontent.com/72859647/124039568-7eadab80-da03-11eb-91e5-54cdc0cd8306.PNG)
+
+
 
 
 
@@ -145,6 +155,11 @@ Dijkstra, Graphenfärbung und Graph
 
 Nebenläufigkeit: Threads, Races, Deadlocks
 ![1fc7f9d8-0e11-4872-b0f1-5ab457df3cc7](https://user-images.githubusercontent.com/72859647/124039603-8f5e2180-da03-11eb-9680-e0279bd85ad7.PNG)
+
+Binärbaum, Tree, Trie -Burak Bingöl
+<img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 12 12" src="https://user-images.githubusercontent.com/72859647/124044155-06e47e80-da0d-11eb-87df-1305e4a45725.png">
+
+
 
 ## Teamarbeit:
 
