@@ -59,6 +59,7 @@ Die somit anspruchsvollste Aufgabe in diesem Übungsblatt war die Aufgabe 4b). H
 Das Kommentieren und Dokumentieren von unserem bisherigen Quellcode sollte per JavaDoc’s erfolgen. Die Vollständigkeit und die Ausführlichkeit lagen im Fokus. 
 #### Aufgabe 6)
 Die letzte Aufgabe dieses Übungsblattes war die Aufgabe 6). Es sollte lediglich zu allen Fehlerfällen eine eigene 'UnoException' Klasse erstellt werden, welche jeweils eine eigene ID besitzen.
+
 ## Übungsblatt 2
 Im zweiten Blatt lag der Fokus darin die innere Struktur des Spiels zu erweitern.
 ### Einzelarbeit:
@@ -90,7 +91,10 @@ Eine weitere Aufgabe war die Spielgeschehnisse in Form des CSV Formats oder seri
 Um im späteren fertigen Spiel auch eine Einzelspielerfunktion präsentieren zu können, durfte natürlich die Implementierung einer KI nicht fehlen. Hierfür musste für unser Programmierniveau im zweiten Semester ein einfacher Algorithmus herhalten. Die KI sollte zwei Spielweisen bekommen einmal in Form einer defensiven KI die ihre sonderkarten für die Verteidigung aufbewahrt und einer Offensiven KI die diese für den Angriff nutzt.
 #### Aufgabe 5b)
  Die Logik für die Entscheidung beider KI´s musste zudem noch in einem UML Aktivitätsdiagramm dargestellt werden. 
-//hier uml der kis einfügen
+ 
+ UML-Diagramm Defensive KI
+ ![Ki-IExpo](https://user-images.githubusercontent.com/72859647/124041086-7dca4900-da06-11eb-8f49-f35f8bf27615.PNG)
+
 ## Übungsblatt 3
 Die Aufgabe in Blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustellen, dazu waren noch einige Schritte gefordert.
 
