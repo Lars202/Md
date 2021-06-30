@@ -146,6 +146,24 @@ Nebenläufigkeit: Threads, Races, Deadlocks
 ## Teamarbeit:
 
 
+#### Aufgabe 2)
+Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.Hier die Links zu den Videos:
+#### Aufgabe 3a)
+Der erste Teil bestand darin die Karten des UNO Spiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten Liste zu verwalten, die von Java vorgefertigten Klassen durften natürlich nicht verwendet werden.
+
+
+#### Aufgabe 3b)
+Hier sollte die, KI die wir zuvor erstellt haben, nun über das Interface Runnable implementiert werden, sodass das Ganze über Threads realisiert wird. Natürlich musste das Speichern und Laden berücksichtigt werden.
+#### Aufgabe 3c)
+Das Ziel dieser Aufgabe war es jede Spielaktion in eine Log-Datei geschrieben wird. Undzwar mit Datum und Uhrzeit.
+#### Aufgabe 4a)
+Die erste Vorkehrung, die im Rahmen der GUI-Entwicklung war  einen Entwurf zu erstellen. Nachdem der Kunde unseren Entwurf abgesegnet hatte konnten wir bereits loslegen.
+#### Aufgabe 4b)
+Hier gab es in der Teamarbeit die meisten Punkte. Das ganze Spiel als funktionierendes Programm sollte über die SWING-GUI zur Verfügung gestellt werden. Dabei mussten noch viele Nebenaspekte beachtet werden.
+#### Aufgabe 4c)
+ Die Kernaufgabe war es das Laden und Speichern per FileChooser möglich zu machen, nach anfänglichen Schwierigkeiten konnte das Problem jedoch mit ein bisschen Recherche gelöst werden.
+
+
 Bilder der GUI:
 
 GUI-Menü
@@ -163,22 +181,6 @@ GUI-Spielfeld
 
 ![Uno gui 4](https://user-images.githubusercontent.com/72859647/124042081-6d1ad280-da08-11eb-9215-d5091c5b4567.PNG)
 
-#### Aufgabe 2)
-Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.Hier die Links zu den Videos:
-#### Aufgabe 3a)
-Der erste Teil bestand darin die Karten des UNO Spiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten Liste zu verwalten, die von Java vorgefertigten Klassen durften natürlich nicht verwendet werden.
-
-
-#### Aufgabe 3b)
-Hier sollte die, KI die wir zuvor erstellt haben, nun über das Interface Runnable implementiert werden, sodass das Ganze über Threads realisiert wird. Natürlich musste das Speichern und Laden berücksichtigt werden.
-#### Aufgabe 3c)
-Das Ziel dieser Aufgabe war es jede Spielaktion in eine Log-Datei geschrieben wird. Undzwar mit Datum und Uhrzeit.
-#### Aufgabe 4a)
-Die erste Vorkehrung, die im Rahmen der GUI-Entwicklung war  einen Entwurf zu erstellen. Nachdem der Kunde unseren Entwurf abgesegnet hatte konnten wir bereits loslegen.
-#### Aufgabe 4b)
-Hier gab es in der Teamarbeit die meisten Punkte. Das ganze Spiel als funktionierendes Programm sollte über die SWING-GUI zur Verfügung gestellt werden. Dabei mussten noch viele Nebenaspekte beachtet werden.
-#### Aufgabe 4c)
- Die Kernaufgabe war es das Laden und Speichern per FileChooser möglich zu machen, nach anfänglichen Schwierigkeiten konnte das Problem jedoch mit ein bisschen Recherche gelöst werden.
 
 
 #### Aufgabe 4c)
