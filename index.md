@@ -151,14 +151,18 @@ IM letzten Abschnitt des Übungsblattes sollte das Spiel noch als eigenständige
 Bilder der GUI:
 
 GUI-Menü
+
 ![Uno gui 1](https://user-images.githubusercontent.com/72859647/124042035-596f6c00-da08-11eb-9472-b19f452ca891.PNG)
 
 GUI-Spielerauswahl
+
 ![Uno gui2](https://user-images.githubusercontent.com/72859647/124042056-642a0100-da08-11eb-8398-13c100224295.PNG)
 
 ![Uno gui 3](https://user-images.githubusercontent.com/72859647/124042062-65f3c480-da08-11eb-9e49-5ba177762c11.PNG)
 
+
 GUI-Spielfeld
+
 ![Uno gui 4](https://user-images.githubusercontent.com/72859647/124042081-6d1ad280-da08-11eb-9215-d5091c5b4567.PNG)
 
 
