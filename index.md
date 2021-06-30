@@ -142,11 +142,29 @@ Nebenläufigkeit: Threads, Races, Deadlocks
 ## Teamarbeit:
 
 #### Aufgabe 2)
-Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.Hier die Links zu den Videos:
+Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.
+
 Der erste Teil bestand darin die Karten des UNO Spiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten Liste zu verwalten, die von Java vorgefertigten Klassen durften natürlich nicht verwendet werden. Der nächste Schritt war es nun das Spiel multithreadingfähig zu machen, die Ki´s und die menschlichen Spieler sollten ab jetzt in verschiedenen Threads laufen. Als letzten Schritt bevor wir zur Erstellung einer GUI übergehen konnten war es die Geschehnisse des Spiels mittels einer Logdatei festzuhalten, hier sollte jede Spielaktion mit Datum und Uhrzeit festgehalten werden.
 Die erste Vorkehrung, die im Rahmen der GUI-Entwicklung war  einen Entwurf zu erstellen. Nachdem der Kunde unseren Entwurf abgesegnet hatte konnten wir bereits loslegen. Die Kernfunktionalitäten des Spiels mit dem Menü zur Spielererstellung und der Ansicht für das tatsächliche Spiel waren schnell programmiert.  Ein weiterer Teil der Aufgabe war es jedoch auch das Laden und Speichern per FileChooser möglich zu machen, nach anfänglichen Schwierigkeiten konnte das Problem jedoch mit ein bisschen Recherche gelöst werden.
 IM letzten Abschnitt des Übungsblattes sollte das Spiel noch als eigenständige und ausführbare JAR-Datei spielbar gemacht werden. Diese letzte Hürde sollte uns allerdings nicht vom Erreichen der Studienleitung abhalten.
+
 Bilder der GUI:
+
+GUI-Menü
+![Uno gui 1](https://user-images.githubusercontent.com/72859647/124042035-596f6c00-da08-11eb-9472-b19f452ca891.PNG)
+
+GUI-Spielerauswahl
+![Uno gui2](https://user-images.githubusercontent.com/72859647/124042056-642a0100-da08-11eb-8398-13c100224295.PNG)
+
+![Uno gui 3](https://user-images.githubusercontent.com/72859647/124042062-65f3c480-da08-11eb-9e49-5ba177762c11.PNG)
+
+GUI-Spielfeld
+![Uno gui 4](https://user-images.githubusercontent.com/72859647/124042081-6d1ad280-da08-11eb-9215-d5091c5b4567.PNG)
+
+
+
+
+
 
 ## Unser Fazit
 Als Zusammenfassung können wir alle als Team mit Überzeugung sagen, dass wir in diesem Studiengang immer wieder an unsere Grenzen gestoßen sind. Daran sind wir auch gewachsen. Die Idee die Inhalte der 'PR2' Vorlesung in einem Spiel als Projekt zu verpacken empfanden wir als eine gute. Dadurch war es möglich, das gelernte aktiv anzuwenden und mit Problemen die dabei entstanden sind umzugehen. Das Präsentieren der Ergebnisse verstärkte das Gemeinschaftsgefühl der Gruppe und das Selbstbewusstsein für das zukünftige Arbeitsleben als Programmierer. Die Kompetenzen und Ideen waren nicht nur Innerhalb der Gruppe, sondern auch in der Einzelarbeit in Form von Lehrvideos einzubringen. Somit konnte man sich gut einen Überblick über seine Fähigkeiten als Student verschaffen. Es war rückblickend ausschlaggebend eine Struktur zur Aufgabenverteilung zu gestalten. Nur so konnte man die Aufgaben gerecht und fair verteilen. Das Format der Vorlesung war unsrer Meinung nach sehr gelungen. Durch das Hochladen der Vorlesungsmaterialien in Videoform Konnte man jederzeit die Vorlesung in seinem eigenen Tempo lernen und verstehen. 
