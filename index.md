@@ -38,8 +38,7 @@ Methoden-Object-Override -Enes Can Sevim
 
 
 #### Aufgabe 1b)
-In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab es die doppelte Anzahl an Punkten, weil die Gewöhnungsphase nun vorbei war. Die Themen wurden anspruchsvoller. So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen. Hier ein Bild zu dem Video:
-Hier der Link zu dem Vorlesungsvideo:
+In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab es die doppelte Anzahl an Punkten, weil die Gewöhnungsphase nun vorbei war. Die Themen wurden anspruchsvoller. So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen. 
 
 Komplexität-O-Notation-P-NP -Mika Richter
 ![PR2 03-01 Komplexität-O-Notation-P-NP](https://user-images.githubusercontent.com/72859647/124035659-2378ba80-d9fd-11eb-9fe4-20fd04eb4153.jpg)
@@ -62,6 +61,10 @@ Wie schon in der Beschreibung ‘Übungsblatt 1‘ erwähnt wurden uns neue Tool
 
 ####  Aufgabe 4a)
 In der ersten Teilaufgabe 4a) mussten zur jeder Klasse im UML-Klassendiagramm (Welches das UNO Programm skizzierte) testgetriebene JUnit-Tests erstellt werden. 
+
+UML-Diagramm
+![UMl_blatt 1](https://user-images.githubusercontent.com/72859647/124043220-e287a280-da0a-11eb-941e-9160ffed252f.PNG)
+
 
 #### Aufgabe 4b)
 Die somit anspruchsvollste Aufgabe in diesem Übungsblatt war die Aufgabe 4b). Hier wurde erwartet die Funktionalität des Spiels anhand der Regeln, welche vom Kunden definiert wurden, zu Programmieren. Sowohl alle Bedingungen, als auch alle Sonderfälle und Zustände (Der Spieler, Kartenstock usw.) mussten beim Kunden nachgefragt und anschließend programmiert werden. Außerdem mussten dem Kunden Szenarien präsentiert werden, welche die Richtigkeit der Spiellogik aufzeigen sollten. Dabei musste sich jedes Szenario klar von dem vorherigen unterscheiden.
