@@ -21,16 +21,16 @@ Im ersten Übungsblatt 'Videos & das Semesterspiel Uno - Basics' wurde gefordert
 Die Aufgabe 1a) bestand darin, ein Lehrvideo aufzunehmen. Als Einstieg und als Übung für das Gefühl der Einzelarbeit, gab es auf diese Aufgabe zuerst einmal eine Milde Anzahl an Punkten. 
 
 
-Objekt, Eigenschaften, getter setter, konstruktoren
+Objekt, Eigenschaften, getter setter, konstruktoren - Alihan Pinarbas
 <img width="1295" alt="Bildschirmfoto 2021-06-30 um 23 12 47" src="https://user-images.githubusercontent.com/72859647/124035280-9fbece00-d9fc-11eb-80d9-e8ab452bf8d9.png">
 
-Objekt-Eigenschaften-Getter-Setter-Konstruktoren
+Objekt-Eigenschaften-Getter-Setter-Konstruktoren -Mika Richter
 ![PR2 01-05 Objekt-Eigenschaften-Getter-Setter-Konstruktoren](https://user-images.githubusercontent.com/72859647/124035630-18258f00-d9fd-11eb-86b2-987a41f94117.jpg)
 
-Objekt-Eigenschaften-Getter-Setter-Konstruktoren
+Objekt-Eigenschaften-Getter-Setter-Konstruktoren -Lars Stricker
 ![lars video 1](https://user-images.githubusercontent.com/72859647/124039269-eb747600-da02-11eb-9d1f-06723dbe1fa4.PNG)
 
-Methoden-Object-Override
+Methoden-Object-Override -Enes Can Sevim
 ![c80be71d-19fe-46a4-816e-f5dd1a43f291](https://user-images.githubusercontent.com/72859647/124039489-51f99400-da03-11eb-80e9-09ab1d43b3fd.PNG)
 
 
@@ -41,13 +41,13 @@ Methoden-Object-Override
 In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab es die doppelte Anzahl an Punkten, weil die Gewöhnungsphase nun vorbei war. Die Themen wurden anspruchsvoller. So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen. Hier ein Bild zu dem Video:
 Hier der Link zu dem Vorlesungsvideo:
 
-Komplexität-O-Notation-P-NP
+Komplexität-O-Notation-P-NP -Mika Richter
 ![PR2 03-01 Komplexität-O-Notation-P-NP](https://user-images.githubusercontent.com/72859647/124035659-2378ba80-d9fd-11eb-9fe4-20fd04eb4153.jpg)
 
-Versionsverwaltung-zentral-verteilt-GIT
+Versionsverwaltung-zentral-verteilt-GIT -Lars Stricker
 ![lars video2](https://user-images.githubusercontent.com/72859647/124038899-35a92780-da02-11eb-8faf-d5eeab7c0016.PNG)
 
-Kommentare-JavaDOC-guter-Code-Testen-JUnit
+Kommentare-JavaDOC-guter-Code-Testen-JUnit -Enes Can Sevim
 ![9e011ced-8a12-412d-974d-fb27effe2e46](https://user-images.githubusercontent.com/72859647/124039526-62117380-da03-11eb-9014-3beaeafeeefc.PNG)
 
 
@@ -95,16 +95,19 @@ Aggregation, Komposition, Enum, Annotation
 ### Teamarbeit:
 
 #### Aufgabe 2)
-Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 03-01‘ bis ‘PR2 04-02‘. 
+Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 03-01‘ bis ‘PR2 04-02‘. Hier die Links zu den Videos:
 
 #### Aufgabe 3a)
 Nur eine kleine Aufgabe in der man eine Komposition über den Konstruktor des Teils vom Spieler und dem Spiel realisieren sollte.
 
 #### Aufgabe 3b)
-Die hierbei Aufgabe bestand darin den inneren und den äußeren Teil des Spiels zu trennen, geschehen sollte dies mittels der 
+Hier musste man ein Interface für den Bediener implementieren, über welches der Spieler mit dem Spiel interagieren konnte. 
 
-Implementierung von Interfaces. Schnell wurden vom Kunden erweitere Funktionalitäten erfragt und so mussten wir zusätzlich neben dem vorhandenen Interface für das Spiel auch noch ein Erweitertes Interface für das manuelle Spielen des Spiels erstellen.
-Eine weitere Aufgabe war die Spielgeschehnisse in Form des CSV Formats oder serialisiert zu speichern und zu Laden. Diese Aufgabe sollte unserem Team noch große Schwierigkeiten bereiten.
+#### Aufgabe 4a)
+Schnell wurden vom Kunden erweitere Funktionalitäten erfragt und so mussten wir zusätzlich neben dem vorhandenen Interface für das Spiel auch noch ein weiteres Interface für das Speichern des gesamten Spiel- Status.
+
+#### Aufgabe 4b)
+Eine weitere Aufgabe war die Spielgeschehnisse in Form des CSV Formats oder serialisiert zu speichern und zu Laden. Dazu mussten die Interfaces gezielt implementiert werden und Teile des Codes mussten umstrukturiert werden. Diese Aufgabe sollte unserem Team noch große Schwierigkeiten bereiten.
 
 #### Aufgabe 5a)
 Um im späteren fertigen Spiel auch eine Einzelspielerfunktion präsentieren zu können, durfte natürlich die Implementierung einer KI nicht fehlen. Hierfür musste für unser Programmierniveau im zweiten Semester ein einfacher Algorithmus herhalten. Die KI sollte zwei Spielweisen bekommen einmal in Form einer defensiven KI die ihre sonderkarten für die Verteidigung aufbewahrt und einer Offensiven KI die diese für den Angriff nutzt.
@@ -124,6 +127,7 @@ Die Aufgabe in Blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustel
 #### Aufgabe 1)
 Die erste Aufgabe 1) des letzten Übungsblatts war ebenfalls ein Lehrvideo aufzunehmen. Hier wurden die schwersten Themen behandelt, wobei es auch die meisten Punkte gab. Wir haben empfunden, dass sich die Themen von 'PR2' langsam distanziert haben. Dafür wurden aber Interessante und auch weiterführende Themen ausgewählt. Burak Bingöl nahm ein Lehrvideo zum Thema 'Datenstrukturen: Binärbaum, Tree, Trie' auf. Das neue Teammitglied, Mika Richter hat das Thema 'Collections: Comparator, Iterator, Map, Properties, Wildcards' behandelt. Hier ein Bild zu den beiden Videos:
 
+
 Collections, Container, Generics
 <img width="1304" alt="Bildschirmfoto 2021-06-30 um 23 07 56" src="https://user-images.githubusercontent.com/72859647/124035484-e44a6980-d9fc-11eb-9c3b-4ab69eccfa37.png">
 
@@ -141,12 +145,6 @@ Nebenläufigkeit: Threads, Races, Deadlocks
 
 ## Teamarbeit:
 
-#### Aufgabe 2)
-Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.
-
-Der erste Teil bestand darin die Karten des UNO Spiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten Liste zu verwalten, die von Java vorgefertigten Klassen durften natürlich nicht verwendet werden. Der nächste Schritt war es nun das Spiel multithreadingfähig zu machen, die Ki´s und die menschlichen Spieler sollten ab jetzt in verschiedenen Threads laufen. Als letzten Schritt bevor wir zur Erstellung einer GUI übergehen konnten war es die Geschehnisse des Spiels mittels einer Logdatei festzuhalten, hier sollte jede Spielaktion mit Datum und Uhrzeit festgehalten werden.
-Die erste Vorkehrung, die im Rahmen der GUI-Entwicklung war  einen Entwurf zu erstellen. Nachdem der Kunde unseren Entwurf abgesegnet hatte konnten wir bereits loslegen. Die Kernfunktionalitäten des Spiels mit dem Menü zur Spielererstellung und der Ansicht für das tatsächliche Spiel waren schnell programmiert.  Ein weiterer Teil der Aufgabe war es jedoch auch das Laden und Speichern per FileChooser möglich zu machen, nach anfänglichen Schwierigkeiten konnte das Problem jedoch mit ein bisschen Recherche gelöst werden.
-IM letzten Abschnitt des Übungsblattes sollte das Spiel noch als eigenständige und ausführbare JAR-Datei spielbar gemacht werden. Diese letzte Hürde sollte uns allerdings nicht vom Erreichen der Studienleitung abhalten.
 
 Bilder der GUI:
 
@@ -165,13 +163,37 @@ GUI-Spielfeld
 
 ![Uno gui 4](https://user-images.githubusercontent.com/72859647/124042081-6d1ad280-da08-11eb-9215-d5091c5b4567.PNG)
 
+#### Aufgabe 2)
+Hier wurden wieder Zeitstempel verlangt. Dieses mal von den Videos ‘PR2 05-01‘ bis ‘PR2 06-02‘.Hier die Links zu den Videos:
+#### Aufgabe 3a)
+Der erste Teil bestand darin die Karten des UNO Spiels nun mithilfe eines LiFo-Speichers, also einer einfachen verketteten Liste zu verwalten, die von Java vorgefertigten Klassen durften natürlich nicht verwendet werden.
 
 
+#### Aufgabe 3b)
+Hier sollte die, KI die wir zuvor erstellt haben, nun über das Interface Runnable implementiert werden, sodass das Ganze über Threads realisiert wird. Natürlich musste das Speichern und Laden berücksichtigt werden.
+#### Aufgabe 3c)
+Das Ziel dieser Aufgabe war es jede Spielaktion in eine Log-Datei geschrieben wird. Undzwar mit Datum und Uhrzeit.
+#### Aufgabe 4a)
+Die erste Vorkehrung, die im Rahmen der GUI-Entwicklung war  einen Entwurf zu erstellen. Nachdem der Kunde unseren Entwurf abgesegnet hatte konnten wir bereits loslegen.
+#### Aufgabe 4b)
+Hier gab es in der Teamarbeit die meisten Punkte. Das ganze Spiel als funktionierendes Programm sollte über die SWING-GUI zur Verfügung gestellt werden. Dabei mussten noch viele Nebenaspekte beachtet werden.
+#### Aufgabe 4c)
+ Die Kernaufgabe war es das Laden und Speichern per FileChooser möglich zu machen, nach anfänglichen Schwierigkeiten konnte das Problem jedoch mit ein bisschen Recherche gelöst werden.
 
+
+#### Aufgabe 4c)
+Über eine JAR-Datei sollte hier das Spiel ausgeführt werden können.
+#### Aufgabe 5) (Zusatzaufgabe)
+Durch die aktuelle Situation, welche durch die Pandemie ausgelöst wurde, erhielten wir die Chance Zusatzaufgaben in Anspruch zu nehmen. Eine davon war diese IExpo-Präsentation zu schreiben und in diesem Schema die gesamte Veranstaltung zu reflektieren und zu beschreiben. Natürlich war auch hier das ganze Team daran beteiligt!
+#### Aufgabe 6) (Zusatzaufgabe)
+Als letzte Zusatzaufgabe gibt es nochmal ein Lehrvideo, welches innerhalb einer Woche abzugeben ist. Die Videothemen sind sehr viel komplexer als die vorherigen Themen. Dem entsprechend muss man diese auch behandeln und vortragen. Dennoch eine tolle Chance, um die Studienleistung ergattern zu können!
 
 
 ## Unser Fazit
-Als Zusammenfassung können wir alle als Team mit Überzeugung sagen, dass wir in diesem Studiengang immer wieder an unsere Grenzen gestoßen sind. Daran sind wir auch gewachsen. Die Idee die Inhalte der 'PR2' Vorlesung in einem Spiel als Projekt zu verpacken empfanden wir als eine gute. Dadurch war es möglich, das gelernte aktiv anzuwenden und mit Problemen die dabei entstanden sind umzugehen. Das Präsentieren der Ergebnisse verstärkte das Gemeinschaftsgefühl der Gruppe und das Selbstbewusstsein für das zukünftige Arbeitsleben als Programmierer. Die Kompetenzen und Ideen waren nicht nur Innerhalb der Gruppe, sondern auch in der Einzelarbeit in Form von Lehrvideos einzubringen. Somit konnte man sich gut einen Überblick über seine Fähigkeiten als Student verschaffen. Es war rückblickend ausschlaggebend eine Struktur zur Aufgabenverteilung zu gestalten. Nur so konnte man die Aufgaben gerecht und fair verteilen. Das Format der Vorlesung war unsrer Meinung nach sehr gelungen. Durch das Hochladen der Vorlesungsmaterialien in Videoform Konnte man jederzeit die Vorlesung in seinem eigenen Tempo lernen und verstehen. 
+Als Zusammenfassung können wir alle als Team mit Überzeugung sagen, dass wir in diesem Studiengang immer wieder an unsere Grenzen gestoßen sind. Daran sind wir auch gewachsen. Die Idee die Inhalte der 'PR2' Vorlesung in einem Spiel als Projekt zu verpacken empfanden wir als eine gute. Dadurch war es möglich, das gelernte aktiv anzuwenden und mit Problemen die dabei entstanden sind umzugehen. Das Präsentieren der Ergebnisse verstärkte das Gemeinschaftsgefühl der Gruppe und das Selbstbewusstsein für das zukünftige Arbeitsleben als Programmierer. Die Kompetenzen und Ideen waren nicht nur Innerhalb der Gruppe, sondern auch in der Einzelarbeit in Form von Lehrvideos einzubringen. Somit konnte man sich gut einen Überblick über seine Fähigkeiten als Student verschaffen. Es war rückblickend ausschlaggebend eine Struktur zur Aufgabenverteilung zu gestalten. Nur so konnte man die Aufgaben gerecht und fair verteilen. Das Format der Vorlesung war unsrer Meinung nach sehr gelungen. Durch das Hochladen der Vorlesungsmaterialien in Videoform Konnte man jederzeit die Vorlesung in seinem eigenen Tempo lernen und verstehen. Insgesamt also eine durchaus Interessante Veranstaltung.
+
+
+
 
   
   
