@@ -15,6 +15,10 @@ Im ersten Übungsblatt 'Videos & das Semesterspiel Uno - Basics' wurde gefordert
 Die Aufgabe 1a) bestand darin, ein Lehrvideo aufzunehmen. Als Einstieg und als Übung für das Gefühl der Einzelarbeit, gab es auf diese Aufgabe zuerst einmal eine Milde Anzahl an Punkten. Dem Studenten Lars Stricker wurde zum Beispiel das Thema 'Objekt-Eigenschaften-Getter-Setter-Konstruktoren' zugewiesen. Dieses Thema musste ausführlich bearbeitet werden. Hier ein Bild zu dem Video:
 <img width="1295" alt="Bildschirmfoto 2021-06-30 um 23 12 47" src="https://user-images.githubusercontent.com/72859647/124035280-9fbece00-d9fc-11eb-80d9-e8ab452bf8d9.png">
 ![PR2 01-05 Objekt-Eigenschaften-Getter-Setter-Konstruktoren](https://user-images.githubusercontent.com/72859647/124035630-18258f00-d9fd-11eb-86b2-987a41f94117.jpg)
+![lars video 1](https://user-images.githubusercontent.com/72859647/124039269-eb747600-da02-11eb-9d1f-06723dbe1fa4.PNG)
+![c80be71d-19fe-46a4-816e-f5dd1a43f291](https://user-images.githubusercontent.com/72859647/124039489-51f99400-da03-11eb-80e9-09ab1d43b3fd.PNG)
+
+
 
 
 Hier der Link zu dem Vorlesungsvideo:
@@ -22,6 +26,10 @@ Hier der Link zu dem Vorlesungsvideo:
 In der Aufgabe 1b) bestand ebenfalls darin, ein Lehrvideo aufzunehmen. Hier gab es die doppelte Anzahl an Punkten, weil die Gewöhnungsphase nun vorbei war. Die Themen wurden anspruchsvoller. So musste zum Beispiel der Student Alihan Pinarbas das Thema 'Komplexität-O-Notation-P-NP' vorstellen. Hier ein Bild zu dem Video:
 Hier der Link zu dem Vorlesungsvideo:
 ![PR2 03-01 Komplexität-O-Notation-P-NP](https://user-images.githubusercontent.com/72859647/124035659-2378ba80-d9fd-11eb-9fe4-20fd04eb4153.jpg)
+![lars video2](https://user-images.githubusercontent.com/72859647/124038899-35a92780-da02-11eb-8faf-d5eeab7c0016.PNG)
+![9e011ced-8a12-412d-974d-fb27effe2e46](https://user-images.githubusercontent.com/72859647/124039526-62117380-da03-11eb-9014-3beaeafeeefc.PNG)
+
+
 
 ### Teamarbeit:
 #### Aufgabe 2)
@@ -42,6 +50,10 @@ Im zweiten Blatt lag der Fokus darin die innere Struktur des Spiels zu erweitern
 ####  Aufgabe 1)
 Die erste Aufgabe 1) bestand nochmals darin, ein Lehrvideo aufzunehmen. Die Themen wurden Anspruchsvoller, da es nun keine Wiederholung der Themen aus 'Pr1' mehr waren. Der Student Enes Can Sevim musste zum Beispiel das Thema 'Aggregation, Komposition, Enum, Annotation' in einem Video verpacken. Wohingegen Sopithan Goneswaran Das Thema 'Steuerelemente und Ereignisse in Swing' behandelt hat. Nach einer kurzen Befragung äußerte sich Enes Can Sevim wie folgt: 'Das Video war viel anstrengender und nervenaufreibender als die ersten zwei. Zum Glück hatte ich mich frühzeitig damit beschäftigt, sonst wäre es echt knapp geworden. ' Hier ein Bild zu den beiden Videos:
 ![PR2 03-06 Wrapper, String, RegEx, Garbage-Collector](https://user-images.githubusercontent.com/72859647/124035776-4d31e180-d9fd-11eb-9e27-115015e67f6a.jpg)
+![Lars pr video 3](https://user-images.githubusercontent.com/72859647/124037263-8ff4b900-d9ff-11eb-9d58-6424fe44ba61.PNG)
+![8dd81d75-c0f6-4b71-930b-422c1b27737e](https://user-images.githubusercontent.com/72859647/124039568-7eadab80-da03-11eb-91e5-54cdc0cd8306.PNG)
+
+
 
 ### Teamarbeit:
 #### Aufgabe 2)
@@ -69,6 +81,11 @@ Die erste Aufgabe 1) des letzten Übungsblatts war ebenfalls ein Lehrvideo aufzu
 
 ![PR2 05-05Comparator, Iterator, Map, Properties, Wildcards](https://user-images.githubusercontent.com/72859647/124035826-5f138480-d9fd-11eb-90c1-3051ad793166.jpg)
 ![lars pr video 4](https://user-images.githubusercontent.com/72859647/124036349-2922d000-d9fe-11eb-8e17-a16505475c8f.PNG)
+![e90ff272-69e0-4c05-a2cf-19b411125f66](https://user-images.githubusercontent.com/72859647/124037428-d6e2ae80-d9ff-11eb-8d7e-5ea6bfdcecfd.PNG)
+![1fc7f9d8-0e11-4872-b0f1-5ab457df3cc7](https://user-images.githubusercontent.com/72859647/124039603-8f5e2180-da03-11eb-9680-e0279bd85ad7.PNG)
+
+
+
 
 
 ## Teamarbeit:
