@@ -20,6 +20,8 @@ Im ersten Übungsblatt 'Videos & das Semesterspiel Uno - Basics' wurde gefordert
 #### Aufgabe 1a)
 Die Aufgabe 1a) bestand darin, ein Lehrvideo aufzunehmen. Als Einstieg und als Übung für das Gefühl der Einzelarbeit, gab es auf diese Aufgabe zuerst einmal eine Milde Anzahl an Punkten. 
 
+Hier die Bilder zu den Videos:
+
 
 Objekt, Eigenschaften, getter setter, konstruktoren - Alihan Pinarbas
 <img width="1295" alt="Bildschirmfoto 2021-06-30 um 23 12 47" src="https://user-images.githubusercontent.com/72859647/124035280-9fbece00-d9fc-11eb-80d9-e8ab452bf8d9.png">
@@ -37,6 +39,8 @@ Anweisungen-Datentypen-Operatoren-Konstanten sowie UML-Aktivitätsdiagramm-Verzw
 <img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 16 45" src="https://user-images.githubusercontent.com/72859647/124043944-7ad25700-da0c-11eb-9d36-618fd6c2ada6.png">
 
 
+
+[Sopithan Goneswaran Video 'Arrays, Schleifen, Methoden und Rekursionen in Java](https://youtu.be/2yLswmg1lDY)
 
 
 
@@ -56,6 +60,11 @@ Kommentare-JavaDOC-guter-Code-Testen-JUnit -Enes Can Sevim
 Exception-Handling-Strukturierung -Burak Bingöl
 <img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 15 29" src="https://user-images.githubusercontent.com/72859647/124044004-a8b79b80-da0c-11eb-9ad4-a7e5c84094ba.png">
 
+
+[Sopithan Goneswaran Video 'Sortieren mit Quicksort und Bubblesort in Java](https://youtu.be/IYGG8VPC47g)
+
+
+[Alihan Pinarbas Video 'Komplexität mit O-Notation, P und NP, Dijkstra und Traveling Salesman Problem](https://youtu.be/B3zumTbQlwI)
 
 
 
@@ -105,7 +114,9 @@ Steuerelemente und Ereignisse in Swing -Burak Bingöl
 <img width="1792" alt="Bildschirmfoto 2021-07-01 um 01 39 59" src="https://user-images.githubusercontent.com/72859647/124044424-aace2a00-da0d-11eb-9daa-644fc23466de.png">
 
 
+[Sopithan Goneswaran Video 'Java Swing: Steuerelemente, Ereignisse und Eventhandling](https://youtu.be/j1WeRgnynx4)
 
+[Alihan Pinarbas Video 'Assoziation, Navigierbarkeit, Vererbung und Polymorphie in Java](https://youtu.be/tmWzh2uPf44)
 
 
 
