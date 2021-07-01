@@ -101,10 +101,10 @@ Im zweiten Blatt lag der Fokus darin die innere Struktur des Spiels zu erweitern
 ####  Aufgabe 1)
 Die erste Aufgabe 1) bestand nochmals darin, ein Lehrvideo aufzunehmen. Die Themen wurden Anspruchsvoller, da es nun keine Wiederholung der Themen aus 'Pr1' mehr waren. Der Student Enes Can Sevim musste zum Beispiel das Thema 'Aggregation, Komposition, Enum, Annotation' in einem Video verpacken. Wohingegen Sopithan Goneswaran Das Thema 'Steuerelemente und Ereignisse in Swing' behandelt hat. Nach einer kurzen Befragung äußerte sich Enes Can Sevim wie folgt: 'Das Video war viel anstrengender und nervenaufreibender als die ersten zwei. Zum Glück hatte ich mich frühzeitig damit beschäftigt, sonst wäre es echt knapp geworden. ' Hier ein Bild zu den beiden Videos:
 
-Wrapper, String, RegEx, Garbage-Collector
+Wrapper, String, RegEx, Garbage-Collector -Mika Richter
 ![PR2 03-06 Wrapper, String, RegEx, Garbage-Collector](https://user-images.githubusercontent.com/72859647/124035776-4d31e180-d9fd-11eb-9e27-115015e67f6a.jpg)
 
-Wrapper, String, RegEx, Garbage-Collector
+Wrapper, String, RegEx, Garbage-Collector -Lars Stricker
 ![Lars pr video 3](https://user-images.githubusercontent.com/72859647/124037263-8ff4b900-d9ff-11eb-9d58-6424fe44ba61.PNG)
 
 Aggregation, Komposition, Enum, Annotation
@@ -156,19 +156,19 @@ Die Aufgabe in Blatt drei bestand darin das UNO-Spiel als "Produkt" fertigzustel
 Die erste Aufgabe 1) des letzten Übungsblatts war ebenfalls ein Lehrvideo aufzunehmen. Hier wurden die schwersten Themen behandelt, wobei es auch die meisten Punkte gab. Wir haben empfunden, dass sich die Themen von 'PR2' langsam distanziert haben. Dafür wurden aber Interessante und auch weiterführende Themen ausgewählt. Burak Bingöl nahm ein Lehrvideo zum Thema 'Datenstrukturen: Binärbaum, Tree, Trie' auf. Das neue Teammitglied, Mika Richter hat das Thema 'Collections: Comparator, Iterator, Map, Properties, Wildcards' behandelt. Hier ein Bild zu den beiden Videos:
 
 
-Collections, Container, Generics
+Collections, Container, Generics  -Alihan Pinarbas
 <img width="1304" alt="Bildschirmfoto 2021-06-30 um 23 07 56" src="https://user-images.githubusercontent.com/72859647/124035484-e44a6980-d9fc-11eb-9c3b-4ab69eccfa37.png">
 
-Collections: Comparator, Iterator, Map, Properties, Wildcards
+Collections: Comparator, Iterator, Map, Properties, Wildcards -Mika Richter
 ![PR2 05-05Comparator, Iterator, Map, Properties, Wildcards](https://user-images.githubusercontent.com/72859647/124035826-5f138480-d9fd-11eb-90c1-3051ad793166.jpg)
 
-Paradigmen, Funktional, Lambda, Closure
+Paradigmen, Funktional, Lambda, Closure -Lars Stricker
 ![lars pr video 4](https://user-images.githubusercontent.com/72859647/124036349-2922d000-d9fe-11eb-8e17-a16505475c8f.PNG)
 
-Dijkstra, Graphenfärbung und Graph
+Dijkstra, Graphenfärbung und Graph -Shopithan Goneswaran
 ![e90ff272-69e0-4c05-a2cf-19b411125f66](https://user-images.githubusercontent.com/72859647/124037428-d6e2ae80-d9ff-11eb-8d7e-5ea6bfdcecfd.PNG)
 
-Nebenläufigkeit: Threads, Races, Deadlocks
+Nebenläufigkeit: Threads, Races, Deadlocks -Enes Can Sevim
 ![1fc7f9d8-0e11-4872-b0f1-5ab457df3cc7](https://user-images.githubusercontent.com/72859647/124039603-8f5e2180-da03-11eb-9680-e0279bd85ad7.PNG)
 
 Binärbaum, Tree, Trie -Burak Bingöl
